@@ -12,17 +12,16 @@
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🌐 MERN Stack Web Development  
 - 📊 Research in Computer Vision & Generative AI  
-- 📁 Backend Systems using Node.js & MySQL  
+- 📁 Backend Systems using Node.js 
 
 ---
 
 ### 🛠 Tech Stack
 
 - **Languages:** Python, C++, JavaScript, SQL  
-- **Web:** HTML, CSS, Node.js, Express.js, MongoDB, MySQL  
-- **AI/ML:** Scikit-learn, Pandas, NumPy, OpenCV, Matplotlib  
-- **Tools:** Git, GitHub, VS Code, Postman  
-- **OS:** Windows, Linux  
+- **Web:** HTML, CSS, Node.js, Express.js, MongoDB, 
+- **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib  
+- **Tools:** Git, GitHub, VS Code,   
 
 ---
 
@@ -37,17 +36,16 @@
 
 ### 🧠 Currently Working On
 
-- 🚌 Building an AI-powered tool to automate bus departure announcements using Text-to-Speech & Computer Vision  
-- 📚 Researching domain-specific AI models for educational tasks like calculus solving  
+- 🚌 Classical Machine Learning 
+- 📚 Working on domain specific AI models and ML models 
 - 💻 Solving DSA problems on LeetCode to sharpen algorithmic thinking  
 
 ---
 
 ### 📢 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your link)*  
-- 📧 Email: your.email@example.com *(Replace with your email)*  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(Optional)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratik-naik-067b22314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 📧 Email: naikp0241@gmail.com 
 
 ---
 
