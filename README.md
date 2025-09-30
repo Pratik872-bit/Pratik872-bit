@@ -1,83 +1,76 @@
 <h1 align="center">Hi 👋, I'm Pratik Naik</h1>
-
-<h3 align="center">AI/ML Enthusiast | B.Tech AIML Student @ Walchand College of Engineering, Sangli</h3>
-
-<p align="center">
-  <i>🚀 Passionate about building real-world projects combining Artificial Intelligence, Machine Learning, and Full Stack Web Development.</i>
-</p>
-
----
-
-### 👨‍💻 About Me  
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**  
-- 🌐 Learning **MERN Stack Development**  
-- 📊 Interested in **Research: Computer Vision & Generative AI**  
-- 📁 Love working on **Backend Systems with Node.js**  
-- 💡 Constantly improving **Problem-Solving with DSA on LeetCode**  
-
----
-
-### 🛠 Tech Stack  
+<h3 align="center">AI/ML Enthusiast | B.Tech AIML Student at Walchand College of Engineering, Sangli</h3>
 
 <p align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br/>
-
-<!-- Web -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<br/>
-
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
+<i>🚀 Passionate about building real-world projects that combine AI, Machine Learning, and Full Stack Web Development.</i>
 </p>
 
----
+🎯 What I'm Exploring
+🤖 Artificial Intelligence & Machine Learning
 
-### 📈 GitHub Stats  
+🌐 MERN Stack Web Development
 
+📊 Research in Computer Vision & Generative AI
+
+📁 Backend Systems using Node.js
+
+🛠️ Tech Stack & Toolkit
+<div align="center">
+I leverage a diverse set of technologies across my projects:
+</div>
+
+Core Languages
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/>
+</div>
+
+Web & Databases (MERN Focus)
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
+</div>
+
+AI/ML & Data Science Libraries
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib"/>
+</div>
+
+Development Tools
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" alt="VS Code"/>
+</div>
+
+📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratiknaik&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiknaik&layout=compact&theme=radical" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratiknaik&theme=radical&count_private=true" alt="GitHub streak stats" />
+<a href="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpratiknaik" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpratiknaik&show_icons=true&theme=radical" alt="Pratik's GitHub stats" />
+</a>
+<a href="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpratiknaik" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpratiknaik&layout=compact&theme=radical" alt="Top languages" />
+</a>
 </p>
 
----
+🧠 Currently Working On
+🚌 Classical Machine Learning
 
-### 📢 Let's Connect!  
+📚 Working on domain specific AI models and ML models
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratik-naik-067b22314">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:naikp0241@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+💻 Solving DSA problems on LeetCode to sharpen algorithmic thinking
 
----
+📢 Let's Connect!
+🔗 LinkedIn
 
-<p align="center">
- ⚡ <i>"Learning never exhausts the mind — it only ignites new ideas."</i>
-</p>
+📧 Email: naikp0241@gmail.com
+
+⚡ "Learning never exhausts the mind — it only ignites new ideas."
