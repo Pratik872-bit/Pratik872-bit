@@ -60,7 +60,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratiknaik&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiknaik&layout=compact&theme=radical" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiknaik&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratiknaik&theme=radical&count_private=true" alt="GitHub Streak" />
+
 </p>
 
 ---
